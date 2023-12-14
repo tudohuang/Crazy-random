@@ -1,2 +1,2 @@
 # Crazy-random
-10 type of random number select
+4 type of random number select program
